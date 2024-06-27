@@ -1,5 +1,7 @@
 ## Oiii eu sou a Sabrina Amorim!
-Estudante de Ciência da Computação, na São Judas Tadeu.
+Atualmente concluindo minha facculdade de Ciência da computação na São Judas Tadeu!
+Evoluindo na linguagem python.
+
 
 
 <div style="display: inline_block"><br>
