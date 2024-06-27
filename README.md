@@ -1,6 +1,7 @@
 ## Oiii eu sou a Sabrina Amorim!
-Apaixonada por tecnologia ❤️
+Apaixonada por tecnologia ❤️ <div>
 Atualmente concluindo minha faculdade de Ciência da computação na São Judas Tadeu! 💻
+##
 
 
 
